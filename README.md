@@ -1,6 +1,6 @@
 # Zero-shot User Intent Detection via Capsule Neural Networks
 
-This repository implements a capsule model named IntentCapsNet-ZSL which is able to obtain state-of-the-art zero-shot intent detection performance. 
+This repository implements a capsule model named IntentCapsNet-ZSL on the SNIPS-NLU dataset with Tensorflow.
 
 Please see the following paper for the details:
 
