@@ -20,21 +20,20 @@ Tensorflow 1.6.0
 
 # Usage
 
+```
 python main.py
+```
 
 If you find our code useful, please cite our paper.
 
+```
 @article{xia2018zero,
-
   title={Zero-shot User Intent Detection via Capsule Neural Networks},
-  
   author={Xia, Congying and Zhang, Chenwei and Yan, Xiaohui and Chang, Yi and Yu, Philip S},
-  
-  journal={arXiv preprint arXiv:1809.00385},
-  
+  journal={arXiv preprint arXiv:1809.00385},  
   year={2018}
-  
 }
+```
 
 # Acknowledgements
 
