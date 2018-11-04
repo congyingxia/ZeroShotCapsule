@@ -4,7 +4,6 @@
 import tensorflow
 import numpy as np
 import tool
-import operator
 from gensim.models.keyedvectors import KeyedVectors
 
 data_prefix = '../data/nlu_data/'

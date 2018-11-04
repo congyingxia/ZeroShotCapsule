@@ -7,7 +7,6 @@ import model
 import tool
 import math
 from sklearn.metrics import classification_report
-from scipy.spatial import distance
 from sklearn.preprocessing import normalize
 from sklearn.metrics import accuracy_score
 
@@ -25,7 +24,7 @@ def setting(data):
     tf.app.flags.DEFINE_float("keep_prob", 0.8, "embedding dropout keep rate")
     tf.app.flags.DEFINE_integer("hidden_size", 32, "embedding vector size")
     tf.app.flags.DEFINE_integer("batch_size", 64, "vocab size of word vectors")
-    tf.app.flags.DEFINE_integer("num_epochs", 50, "num of epochs")
+    tf.app.flags.DEFINE_integer("num_epochs", 100, "num of epochs")
     tf.app.flags.DEFINE_integer("vocab_size", vocab_size, "vocab size of word vectors")
     tf.app.flags.DEFINE_integer("max_time", max_time, "max number of words in one sentence")
     tf.app.flags.DEFINE_integer("sample_num", sample_num, "sample number of training data")
