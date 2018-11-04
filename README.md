@@ -18,6 +18,12 @@ Python 2.7.12
 
 Tensorflow 1.6.0
 
+Numpy
+
+Gensim
+
+Sklearn
+
 # Usage
 
 ```
