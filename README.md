@@ -44,7 +44,8 @@ If you find our code useful, please cite our paper.
 
 # Pytorch Version
 
-A pytorch version can be found here. https://github.com/nhhoang96/ZeroShotCapsule-PyTorch- 
+A pytorch version can be found here: https://github.com/nhhoang96/ZeroShotCapsule-PyTorch- 
+
 Thanks to Hoang Nguyen @nhhoang96.
 
 # Acknowledgements
